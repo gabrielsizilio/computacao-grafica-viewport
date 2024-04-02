@@ -26,6 +26,8 @@ Todas as dependências são instaladas automáticamente pelos 'notebooks' do Jup
           <b>Yodemis Júnior</b>
         </sub>
       </a>
+      <br>
+      contato: yjsn@aluno.ifnmg.edu.br
     </td>
     <td align="center">
       <a href="https://github.com/gabrielsizilio" title="Gabriel Sizilio">
@@ -34,6 +36,8 @@ Todas as dependências são instaladas automáticamente pelos 'notebooks' do Jup
           <b>Gabriel Sizilio</b>
         </sub>
       </a>
+      <br>
+      contato: gms11@aluno.ifnmg.edu.br
     </td>
   </tr>
 </table>
