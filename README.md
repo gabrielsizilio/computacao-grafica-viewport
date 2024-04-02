@@ -12,7 +12,7 @@ Todas as dependências são instaladas automáticamente pelos 'notebooks' do Jup
 ## ☕ Usando a aplicação
 > Utilizamos jupyter (python) para o desenvolvimento dessa aplicação. Para rodar o projeto usando a extensão do Jupyter no VS Code, basta clicar em *run all*
 
-=add_imagem_aqui=
+<img src="./assets//instruction.png" width="350" title="Instruction">
 
 
 ## 🤝 Colaboradores
