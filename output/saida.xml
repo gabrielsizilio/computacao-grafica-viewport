@@ -1,1 +1,20 @@
-<objects><point x="0.0" y="368.0" /><point x="124.0" y="276.0" /><point x="248.0" y="184.0" /><line><point1 x="124.0" y="368.0" /><point2 x="248.0" y="276.0" /></line><line><point1 x="248.0" y="276.0" /><point2 x="124.0" y="184.0" /></line><polygon><point x="62.0" y="414.0" /><point x="62.0" y="368.0" /><point x="124.0" y="368.0" /><point x="124.0" y="414.0" /></polygon></objects>
+<?xml version='1.0' encoding='us-ascii'?>
+<objects>
+    <point x="0.0" y="368.0" />
+    <point x="124.0" y="276.0" />
+    <point x="248.0" y="184.0" />
+    <line>
+        <point1 x="124.0" y="368.0" />
+        <point2 x="248.0" y="276.0" />
+    </line>
+    <line>
+        <point1 x="248.0" y="276.0" />
+        <point2 x="124.0" y="184.0" />
+    </line>
+    <polygon>
+        <point x="62.0" y="414.0" />
+        <point x="62.0" y="368.0" />
+        <point x="124.0" y="368.0" />
+        <point x="124.0" y="414.0" />
+    </polygon>
+</objects>
