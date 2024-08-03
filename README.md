@@ -1,5 +1,5 @@
-# 🚀 Transformada de viewport - part.1
-Repositório dedicado ao Trabalho Prático (parte 1) da disciplina de Computação Gráfica
+# 🚀 Transformada de viewport
+Repositório dedicado ao Trabalho Prático da disciplina de Computação Gráfica
 
 ## 💻 Pré-requisitos
 Todas as dependências são instaladas automáticamente pelos 'notebooks' do Jupyter, tais dependências são:
