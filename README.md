@@ -9,6 +9,25 @@ Todas as dependências são instaladas automáticamente pelos 'notebooks' do Jup
   pip install PyQt5
   ```
 
+## 🚨 Resolução do Erro externally-managed-environment
+Se você encontrar o erro externally-managed-environment ao tentar instalar pacotes com *pip*, isso geralmente indica que você está em um ambiente gerenciado pelo sistema (por exemplo, um ambiente de sistema padrão onde você não tem permissões para instalar pacotes globalmente). Uma solução é criar um abiente virtual e instalar as dependencias por lá:
+
+Linux:
+```
+python -m venv myenv
+source myenv/bin/activate
+```
+Windows:
+```
+python -m venv myenv
+myenv\Scripts\activate
+```
+Então você acabou de criar o ambiente virtual "myenv" e o ativou com "source myenv/bin/activate" (myenv/bin/activate no Windows). 
+
+Basta Selecionar esse ambiente para instalar as dependências e rodar o projeto.
+
+<img src="./assets//updateEnviromentOption.png" width="300" title="Altera o ambiente"> <img src="./assets//selectNewEnviroment.png" width="400" title="Seleciona o novo ambiente de execução">
+
 ## ☕ Usando a aplicação
 > Utilizamos jupyter (python) para o desenvolvimento dessa aplicação. Para rodar o projeto usando a extensão do Jupyter no VS Code, basta clicar em *run all*
 
