@@ -1,4 +1,4 @@
-# Transformada de viewport - part.1
+# 🚀 Transformada de viewport - part.1
 Repositório dedicado ao Trabalho Prático (parte 1) da disciplina de Computação Gráfica
 
 ## 💻 Pré-requisitos
@@ -12,7 +12,7 @@ Todas as dependências são instaladas automáticamente pelos 'notebooks' do Jup
 ## ☕ Usando a aplicação
 > Utilizamos jupyter (python) para o desenvolvimento dessa aplicação. Para rodar o projeto usando a extensão do Jupyter no VS Code, basta clicar em *run all*
 
-<img src="./assets//instruction.png" width="350" title="Instruction">
+<img src="./assets//instruction.png" width="600" title="Instruction">
 
 
 ## 🤝 Colaboradores
@@ -26,6 +26,8 @@ Todas as dependências são instaladas automáticamente pelos 'notebooks' do Jup
           <b>Yodemis Júnior</b>
         </sub>
       </a>
+      <br>
+      contato: yjsn@aluno.ifnmg.edu.br
     </td>
     <td align="center">
       <a href="https://github.com/gabrielsizilio" title="Gabriel Sizilio">
@@ -34,6 +36,8 @@ Todas as dependências são instaladas automáticamente pelos 'notebooks' do Jup
           <b>Gabriel Sizilio</b>
         </sub>
       </a>
+      <br>
+      contato: gms11@aluno.ifnmg.edu.br
     </td>
   </tr>
 </table>
